@@ -1,32 +1,49 @@
-# DSA Fundamentals (C++)
+# 🚀 Data Structures & Algorithms Fundamentals
 
-This repository contains my implementations of fundamental Data Structures and Algorithms in **C++**. I created this repository while learning DSA to strengthen my understanding of core concepts and interview preparation.
+> **Learning DSA by building every concept from scratch.**
 
-## Topics Covered
+This repository contains my implementations of fundamental Data Structures and Algorithms in **C++**. The primary goal is to develop a deep understanding of core concepts through implementation and consistent practice.
 
-* Arrays
-* Strings
-* Recursion
-* Linked List
-* Stack (Array & Linked List Implementation)
-* Queue (Array & Linked List Implementation)
-* Searching
-* Sorting
-* Basic Time & Space Complexity
+---
 
-More topics will be added as I continue learning.
+## 📚 Topics Covered
 
-## LeetCode
+* 🔹 Arrays
+* 🔹 Strings
+* 🔹 Recursion
+* 🔹 Linked Lists
+* 🔹 Stacks
+* 🔹 Queues
+* 🔹 Searching Algorithms
+* 🔹 Sorting Algorithms
+* 🔹 Time & Space Complexity
 
-This repository focuses on **fundamental implementations** rather than problem solutions.
+> More concepts and implementations will be added as I continue my DSA journey.
 
-I regularly solve DSA problems on **LeetCode** to improve my problem-solving skills. If you'd like to see more of my solutions, feel free to check out my LeetCode profile.
+---
 
-**LeetCode:** https://leetcode.com/u/<arun_ghorse09>/
+## 🎯 Objectives
 
-## Purpose
+* 💡 Understand how data structures work internally.
+* 🛠️ Build every concept from scratch.
+* 📈 Strengthen problem-solving skills.
+* 💼 Prepare for technical interviews.
 
-* Build strong DSA fundamentals
-* Practice clean implementations
-* Prepare for coding interviews
-* Track my learning journey
+---
+
+## 💻 Language
+
+* **C++**
+
+---
+## 🧩 LeetCode
+
+This repository focuses on **DSA implementations and fundamental concepts**.
+
+I actively solve additional DSA problems on **LeetCode** to strengthen my problem-solving skills and apply these concepts to real interview-style questions.
+
+🔗 **LeetCode Profile:** **[Click Here](https://leetcode.com/u/arun_ghorse09/)**
+
+---
+
+## ⭐ If you find this repository helpful, consider giving it a star!
